@@ -117,7 +117,7 @@ if(!empty($_POST)){
   }
 }
  ?>
-<h1>mission3-5 　パスワード(world)</h1>
+<h1>discussion room 　パスワード(world)</h1>
 <?php if(!empty($editer)): ?>
   <編集中>
   <form action="" method="post">
