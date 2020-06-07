@@ -2,7 +2,7 @@
 
 http://miker.php.xdomain.jp/discus_board.php
 
-レンタルサーバーにFTPしたものです(1週間くらいでサーバーから削除します)
+レンタルサーバーにFTPしたものです
 
 # Features
  
